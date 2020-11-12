@@ -39,5 +39,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@atlaskit/button": "^15.1.2",
+    "@atlaskit/form": "^8.1.6",
+    "@atlaskit/select": "^13.0.6",
+    "@atlaskit/textfield": "^4.0.9",
+    "@types/styled-components": "^5.1.4",
+    "styled-components": "^5.2.1"
   }
 }
